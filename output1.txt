@@ -1,0 +1,11 @@
+print matrix A
+0      2      4    
+6      8      10   
+12     14     16   
+print vector u :
+0                  3                  6                
+
+print vector u (column display)
+0                
+3                
+6                
